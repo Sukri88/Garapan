@@ -16,8 +16,5 @@ gcl_au=1.1.939133070.1691152727; gt_auto_switch=1; _ga=GA1.1.1899534765.16911631
 #Cookie firmansya
 
  '``console
-
 ci_session=j5p31ipn0vm2svqp2c0gejb5ncq8i8iv; csrf_cookie_name=a7638a2f744c4a1ee2dca971aba85f10
-
-
  ```
